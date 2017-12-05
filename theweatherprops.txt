@@ -1,0 +1,8 @@
+weather ----> main
+	----> description
+	----> icon
+main    ----> temp
+	----> temp_min
+	----> temp_max
+sys     ----> country
+name    ----> name
